@@ -1,3 +1,3 @@
 # UFLDL-Tutorial
-My solutions to the UFLDL tutorial
+My solutions to the UFLDL tutorial.
 
